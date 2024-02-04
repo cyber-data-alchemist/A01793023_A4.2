@@ -1,7 +1,9 @@
 # A4.2 - Programming Exercise 1
 
 ## Overview
+
 **TC470.10**
+
 **A01793023 - Jorge Luis Arroyo Chavelas**
 
 Here is the code to run 3 programas, one for generating basic stats, one for transform decimal numbers to binary and to hex and one to count repeated words. All of these files are based on reading a file and they were created to pass PEP8 and requirements tests.
